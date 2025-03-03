@@ -20,7 +20,7 @@ public class Plugin1CommonDialog extends Dialog{
 	    protected Control createDialogArea(Composite parent) {
 	        Composite container = (Composite) super.createDialogArea(parent);
 	        Label label = new Label(container, SWT.NONE);
-	        label.setText("Je suis plugin 1 common v2");
+	        label.setText("Je suis plugin 1 common update from cuisine Demo");
 	        return container;
 	    }
 }
